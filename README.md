@@ -3,3 +3,5 @@ some summaries and cheat-sheets about the courses that I have got updated from t
 ## Added till now:
  * Git Basics Cheat-Sheet
  * JavaScript Sheet
+ * React Cheat-Sheet from freeCodeCamp : 
+   -> https://www.freecodecamp.org/news/the-react-cheatsheet/#react-elements
