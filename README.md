@@ -14,3 +14,5 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ https://www.upgrad.com/blog/spring-boot-annotations/
  * CRUD operations
    ➡ https://www.freecodecamp.org/news/crud-operations-explained/
+ * Basics of Java treads
+   ➡ https://www.geeksforgeeks.org/java-multithreading-tutorial/
