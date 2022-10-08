@@ -21,4 +21,5 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ https://stackoverflow.com/questions/52185059/use-java-websocket-api-in-spring-boot-application </br>
    ➡ https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#websocket </br>
    ➡ https://www.baeldung.com/postman-websocket-apis </br>
-   
+ * Python Course for Beginners </br>
+   ➡ https://www.youtube.com/watch?v=LzYNWme1W6Q
