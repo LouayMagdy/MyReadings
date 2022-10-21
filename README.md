@@ -23,3 +23,5 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ https://www.baeldung.com/postman-websocket-apis </br>
  * Python Course for Beginners </br>
    ➡ https://www.youtube.com/watch?v=LzYNWme1W6Q
+ * Introduction to PyUnit </br>
+   ➡ https://machinelearningmastery.com/a-gentle-introduction-to-unit-testing-in-python/
