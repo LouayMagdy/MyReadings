@@ -29,10 +29,11 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ https://www.youtube.com/watch?v=LzYNWme1W6Q
  * Introduction to PyUnit </br>
    ➡ https://machinelearningmastery.com/a-gentle-introduction-to-unit-testing-in-python/
- * Microservices and DTO layer
+ * Microservices and DTO layer </br>
    ➡ https://medium.com/learnwithnk/best-practices-in-spring-boot-project-structure-layers-of-microservice-versioning-in-api-cadf62bd3459 </br>
    ➡ https://www.baeldung.com/java-dto-pattern </br>
- * JPA, and MySQL with Springbooot
+ * JPA, and MySQL with Springbooot </br>
+   ➡ https://spring.io/guides/gs/accessing-data-mysql/
    ➡ https://hevodata.com/learn/spring-boot-mysql/ </br>
    ➡ https://andriperera.medium.com/create-a-rest-api-in-spring-boot-with-mysql-b250ff3aaa9b </br>
    ➡ named queries: https://www.logicbig.com/tutorials/spring-framework/spring-data/query-named-parameters.html </br>
