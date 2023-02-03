@@ -38,7 +38,10 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ https://andriperera.medium.com/create-a-rest-api-in-spring-boot-with-mysql-b250ff3aaa9b </br>
    ➡ named queries: https://www.logicbig.com/tutorials/spring-framework/spring-data/query-named-parameters.html </br>
    ➡ annotations: https://www.baeldung.com/spring-data-annotations </br>
-   ➡ one-to-many: https://vladmihalcea.com/the-best-way-to-map-a-onetomany-association-with-jpa-and-hibernate/ </br>
+   ➡ one-to-many relationships: https://vladmihalcea.com/the-best-way-to-map-a-onetomany-association-with-jpa-and-hibernate/ </br>
+   ➡ one-to-one relationships: https://www.baeldung.com/jpa-one-to-one </br>
    ➡ Projection: https://www.bytestree.com/spring/spring-data-jpa-projections-5-ways-return-custom-object/  </br>
    ➡ incremaental querying and filter: https://medium.com/@cmmapada/advanced-search-and-filtering-using-spring-data-jpa-specification-and-criteria-api-b6e8f891f2bf </br>
    ➡ for modification: https://www.baeldung.com/spring-data-jpa-modifying-annotation
+* Lombok </br>
+   ➡ https://www.baeldung.com/intro-to-project-lombok
