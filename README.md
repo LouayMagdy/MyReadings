@@ -5,6 +5,8 @@ some summaries and cheat-sheets about the courses that I have got updated from t
  * JavaScript Sheet
  * Promises in JS </br>
    ➡ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise#description
+ * Regex </br>
+   ➡ https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html#
  * React Cheat-Sheet from freeCodeCamp : </br>
    ➡ https://www.freecodecamp.org/news/the-react-cheatsheet/#react-elements
  * Gson Library
