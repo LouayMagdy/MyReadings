@@ -45,3 +45,6 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ for modification: https://www.baeldung.com/spring-data-jpa-modifying-annotation
 * Lombok </br>
    ➡ https://www.baeldung.com/intro-to-project-lombok
+* Spring Security Tutorial: </br>
+   ➡ https://www.toptal.com/spring/spring-security-tutorial
+
