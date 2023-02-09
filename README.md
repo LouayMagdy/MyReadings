@@ -46,5 +46,7 @@ some summaries and cheat-sheets about the courses that I have got updated from t
 * Lombok </br>
    ➡ https://www.baeldung.com/intro-to-project-lombok
 * Spring Security Tutorial: </br>
-   ➡ https://www.toptal.com/spring/spring-security-tutorial
+   ➡ https://youtu.be/KxqlJblhzfI
+* Web Browser Caching: </br>
+   ➡ using React js: https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/
 
