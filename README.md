@@ -49,4 +49,6 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ https://youtu.be/KxqlJblhzfI
 * Web Browser Caching: </br>
    ➡ using React js: https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/
+* making HTTP requests from SpringBoot: </br>
+   ➡ https://attacomsian.com/blog/http-requests-resttemplate-spring-boot
 
