@@ -51,4 +51,11 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ using React js: https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/
 * making HTTP requests from SpringBoot: </br>
    ➡ https://attacomsian.com/blog/http-requests-resttemplate-spring-boot
-
+* Docker and K8s tutorials
+   ➡ https://www.freecodecamp.org/news/the-docker-handbook/#working-with-executable-images
+   ➡ https://www.freecodecamp.org/news/the-kubernetes-handbook/
+   ➡ Changing docker image location on wsl: https://stackoverflow.com/questions/62441307/how-can-i-change-the-location-of-docker-images-when-using-docker-desktop-on-wsl2
+* Apache Kafka
+   ➡ Installation tutorial on windows: https://www.youtube.com/watch?v=BwYFuhVhshI
+   ➡ Kafka Streams: https://www.baeldung.com/java-kafka-streams
+   ➡ Kafka Streams Playlist: https://www.youtube.com/playlist?list=PLa7VYi0yPIH35IrbJ7Y0U2YLrR9u4QO-s 
