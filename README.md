@@ -56,6 +56,7 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ https://www.freecodecamp.org/news/the-kubernetes-handbook/</br>
    ➡ Changing docker image location on wsl: https://stackoverflow.com/questions/62441307/how-can-i-change-the-location-of-docker-images-when-using-docker-desktop-on-wsl2</br>
    ➡ Changing location of .minkube folder: https://stackoverflow.com/questions/61775701/how-do-i-change-the-location-of-minikube-folder </br>
+   ➡ Important Hint before using local docker images in K8s: https://stackoverflow.com/questions/42564058/how-to-use-local-docker-images-with-minikube </br>
 * Apache Kafka</br>
    ➡ Installation tutorial on windows: https://www.youtube.com/watch?v=BwYFuhVhshI</br>
    ➡ Kafka Streams: https://www.baeldung.com/java-kafka-streams</br>
