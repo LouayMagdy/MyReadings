@@ -33,7 +33,7 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ https://medium.com/learnwithnk/best-practices-in-spring-boot-project-structure-layers-of-microservice-versioning-in-api-cadf62bd3459 </br>
    ➡ https://www.baeldung.com/java-dto-pattern </br>
  * JPA, and MySQL with Springbooot </br>
-   ➡ https://spring.io/guides/gs/accessing-data-mysql/
+   ➡ https://spring.io/guides/gs/accessing-data-mysql/ </br>
    ➡ https://hevodata.com/learn/spring-boot-mysql/ </br>
    ➡ https://andriperera.medium.com/create-a-rest-api-in-spring-boot-with-mysql-b250ff3aaa9b </br>
    ➡ named queries: https://www.logicbig.com/tutorials/spring-framework/spring-data/query-named-parameters.html </br>
@@ -61,3 +61,7 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ Installation tutorial on windows: https://www.youtube.com/watch?v=BwYFuhVhshI</br>
    ➡ Kafka Streams: https://www.baeldung.com/java-kafka-streams</br>
    ➡ Kafka Streams Playlist: https://www.youtube.com/playlist?list=PLa7VYi0yPIH35IrbJ7Y0U2YLrR9u4QO-s </br>
+* Hyperparameter tunning tips for Dense Neural Nets and CNNs: </br>
+   ➡ Dense Neural Nets: https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-i-hyper-parameter-8129009f131b </br>
+   ➡ CNN: https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7 </br>
+   
