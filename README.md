@@ -50,7 +50,8 @@ some summaries and cheat-sheets about the courses that I have got updated from t
 * Web Browser Caching: </br>
    ➡ using React js: https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/
 * making HTTP requests from SpringBoot: </br>
-   ➡ https://attacomsian.com/blog/http-requests-resttemplate-spring-boot
+   ➡ https://attacomsian.com/blog/http-requests-resttemplate-spring-boot </br>
+   ➡ Common Test Servers: https://stackoverflow.com/questions/5725430/http-test-server-accepting-get-post-requests
 * Docker and K8s tutorials</br>
    ➡ https://www.freecodecamp.org/news/the-docker-handbook/#working-with-executable-images</br>
    ➡ https://www.freecodecamp.org/news/the-kubernetes-handbook/</br>
@@ -61,7 +62,14 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ Installation tutorial on windows: https://www.youtube.com/watch?v=BwYFuhVhshI</br>
    ➡ Kafka Streams: https://www.baeldung.com/java-kafka-streams</br>
    ➡ Kafka Streams Playlist: https://www.youtube.com/playlist?list=PLa7VYi0yPIH35IrbJ7Y0U2YLrR9u4QO-s </br>
+* Hadoop </br>
+   ➡ Installation on windows: </br>
+           - https://gist.github.com/vorpal56/5e2b67b6be3a827b85ac82a63a5b3b2e </br>
+           - https://towardsdatascience.com/installing-hadoop-3-2-1-single-node-cluster-on-windows-10-ac258dd48aef </br>
+   ➡ Adding files to HDFS: https://www.geeksforgeeks.org/hadoop-copyfromlocal-command/
 * Hyperparameter tunning tips for Dense Neural Nets and CNNs: </br>
    ➡ Dense Neural Nets: https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-i-hyper-parameter-8129009f131b </br>
    ➡ CNN: https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7 </br>
-   
+* Memory Mapped IO Files (mmap) in python: </br>
+   ➡ https://realpython.com/python-mmap/
+    
