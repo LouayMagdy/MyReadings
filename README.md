@@ -72,5 +72,8 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ Dense Neural Nets: https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-i-hyper-parameter-8129009f131b </br>
    ➡ CNN: https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7 </br>
 * Memory Mapped IO Files (mmap) in python: </br>
-   ➡ https://realpython.com/python-mmap/
+   ➡ https://realpython.com/python-mmap/ </br>
+* MariaDB: </br>
+  ➡ Pulling a docker image: https://mariadb.com/kb/en/installing-and-using-mariadb-via-docker/ </br>
+  ➡ Accessing the container: https://mariadb.com/resources/blog/get-started-with-mariadb-using-docker-in-3-steps/ </br>
     
