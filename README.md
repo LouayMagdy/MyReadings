@@ -53,6 +53,7 @@ some summaries and cheat-sheets about the courses that I have got updated from t
    ➡ https://attacomsian.com/blog/http-requests-resttemplate-spring-boot </br>
    ➡ Common Test Servers: https://stackoverflow.com/questions/5725430/http-test-server-accepting-get-post-requests
 * Docker and K8s tutorials</br>
+   ➡ Installing Docker on Ubuntu 22.04: https://phoenixnap.com/kb/install-docker-on-ubuntu-20-04</br>
    ➡ https://www.freecodecamp.org/news/the-docker-handbook/#working-with-executable-images</br>
    ➡ https://www.freecodecamp.org/news/the-kubernetes-handbook/</br>
    ➡ Changing docker image location on wsl: https://stackoverflow.com/questions/62441307/how-can-i-change-the-location-of-docker-images-when-using-docker-desktop-on-wsl2</br>
