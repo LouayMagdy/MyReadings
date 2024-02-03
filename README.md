@@ -3,6 +3,8 @@ some summaries and cheat-sheets about the courses that I have got updated from t
 ## Added till now:
  * Git Basics Cheat-Sheet
  * JavaScript Sheet
+ * Analysis of Sorting Algorithms: </br>
+   ➡ https://afteracademy.com/blog/comparison-of-sorting-algorithms/
  * Promises in JS </br>
    ➡ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise#description
  * Regex </br>
